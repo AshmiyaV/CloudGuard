@@ -1,3 +1,9 @@
 [submodule "webapp"]
 	path = webapp
 	url = git@github.com:AshmiyaV/webapp.git
+[submodule "serverless"]
+	path = serverless
+	url = git@github.com:AshmiyaV/serverless.git
+[submodule "tf-gcp-infra"]
+	path = tf-gcp-infra
+	url = git@github.com:AshmiyaV/tf-gcp-infra.git
